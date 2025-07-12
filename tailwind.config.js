@@ -5,11 +5,7 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {
-      fontFamily: {
-        bongita: ['Bongita', 'sans-serif'],
-      },
-    },
+    extend: {},
   },
   plugins: [],
 }
